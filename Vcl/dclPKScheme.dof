@@ -1,0 +1,114 @@
+[FileVersion]
+Version=6.0
+[Compiler]
+A=8
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=0
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=dclScheme
+[Directories]
+OutputDir=
+UnitOutputDir=
+PackageDLLOutputDir=.
+PackageDCPOutputDir=.
+SearchPath=;F:\FastReport\组件\TeeChartPro_v704\Sources\Compiled\Delphi6\Lib
+Packages=vcl;rtl;dbrtl;adortl;vcldb;vclx;bdertl;vcldbx;ibxpress;dsnap;cds;bdecds;qrpt;dss;dsnapcrba;dsnapcon;VclSmp;vclshlctrls;inetdb;inet;nmfast;vclie;dbexpress;dbxcds;dclOffice2k;webdsnap;xmlrtl;inetdbbde;inetdbxpress;indy;WaxControls;PKCttMfwService;PKPicShow;PKArtControl;WaxFR6;PKWinampSkin;CoolTrayIcon_D6plus;WaxMap;PKXPMenu;vclFlexCompressd6;dbtree_p;dsado50;PKCttCom;WinSkinD6;SynEdit_R6;mxOutlookBarPro_D6;PKColorPickerButton;ThemeManager6;VirtualTreesD6;PKDrag;tb2k_d6;tbx_d6;SpTBXLib_d6;Rz30Ctls60;Rz30DBCtls60;cxDataD6;dxThemeD6;cxCommonEditingVCLD6;RbControlsD6;cxExportVCLD6;cxGridUtilsVCLD6;se_d6;websnap;PKCttDesign;cxLibraryVCLD6;cxExtEditorsVCLD6;cxEditorsVCLD6;cxTreeListVCLD6;cxGridVCLD6;pkCttControls;PkLookUp;PKCttFlowAgent;cttDataCenter60;dxNavBarD6;cxVerticalGridVCLD6;cttControlDesign60;CTTControl60;Tee76;TeeUI76;TeeDB76;TeePro76;TeeGL76;TeeImage76;TeeLanguage76
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=
+HostApplication=
+Launcher=
+UseLauncher=0
+DebugCWD=
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=D:\Program Files\Borland\Delphi6\Bin\
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2052
+CodePage=936
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+[Excluded Packages]
+d:\program files\borland\delphi6\Bin\stride60.bpl=String Resource Editor IDE Package
+d:\program files\borland\delphi6\Bin\proide60.bpl=Borland Core IDE Package
+D:\Program Files\Borland\Delphi6\Bin\vclhie60.bpl=Internet Explorer Hosting Support Package
+d:\program files\borland\delphi6\Bin\delphipro60.bpl=Borland Delphi Professional IDE Package
+d:\program files\borland\delphi6\Bin\designdgm60.bpl=Borland Module Diagram Editview
+d:\program files\borland\delphi6\Bin\delphicorba60.bpl=Borland Delphi Core IDE CORBA Package
+D:\Program Files\Borland\Delphi6\Bin\corbaide60.bpl=Borland Core IDE CORBA Package
+d:\program files\borland\delphi6\Bin\delphient60.bpl=C++Builder Enterprise IDE Package
+d:\program files\borland\delphi6\Bin\xmlide60.bpl=Borland XML IDE Package
+D:\Program Files\Borland\Delphi6\Bin\clxdesigner60.bpl=CLX Form designer and property and component editors
+d:\program files\borland\delphi6\Bin\direct60.bpl=Borland Direct IDE Package
+d:\program files\borland\delphi6\Bin\delphihtm60.bpl=Borland Delphi Core HTML Package
+D:\Program Files\Borland\Delphi6\Bin\indy60.bpl=Internet Direct (Indy) for D6
+D:\Program Files\Borland\Delphi6\Bin\dclsoap60.bpl=Borland SOAP Components
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=1
+Item0=;F:\FastReport\组件\TeeChartPro_v704\Sources\Compiled\Delphi6\Lib
+[HistoryLists\hlBPLOutput]
+Count=1
+Item0=.
+[HistoryLists\hlDCPOutput]
+Count=1
+Item0=.

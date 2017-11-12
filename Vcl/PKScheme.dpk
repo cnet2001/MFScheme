@@ -1,0 +1,48 @@
+package PKScheme;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'PKScheme'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  dbrtl,
+  VclSmp;
+
+contains
+  MFSchemeCNDate in 'MFSchemeCNDate.pas',
+  MFBaseScheme in 'MFBaseScheme.pas',
+  MFBaseSchemeCommon in 'MFBaseSchemeCommon.pas',
+  MFBaseSchemePainter in 'MFBaseSchemePainter.pas',
+  MFCardSchemeView in 'MFCardSchemeView.pas',
+  MFDBScheme in 'MFDBScheme.pas',
+  MFGunterSchemeView in 'MFGunterSchemeView.pas',
+  MFScheme in 'MFScheme.pas',
+  MFPaint in 'MFPaint.pas',
+  MFSchemeUserDesignForm in 'MFSchemeUserDesignForm.pas' {frmSchemeUserDesign},
+  MFSchemeObjectXml in 'MFSchemeObjectXml.pas',
+  MFSchemeXml in 'MFSchemeXml.pas';
+
+end.
